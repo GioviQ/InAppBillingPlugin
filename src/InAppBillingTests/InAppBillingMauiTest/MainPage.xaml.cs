@@ -82,7 +82,7 @@ namespace InAppBillingTests
             }
         }
 
-		private async void ButtonRenewingSub_Clicked(object sender, EventArgs e)
+		private void ButtonRenewingSub_Clicked(object sender, EventArgs e)
 		{
 			
 		}
